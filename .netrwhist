@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Elliott/Dropbox/Developer/Travelnuts'
+let g:netrw_dirhist_2='/Users/Elliott/.vim/bundle/vim-javascript'
+let g:netrw_dirhist_3='/Users/Elliott/Dropbox/Developer/Travelnuts/core/drivers/pms'
